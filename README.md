@@ -19,10 +19,12 @@ To follow along with this project, you will need the following hardware:
 1. Connect the power supply to the Arduino board.
 2. Flip the first switch to turn on the first three LEDs and the second switch to turn on the remaining three LEDs.
 3. Flip the switches again to turn off the LEDs.
+# Tinkercad
+- You can view a live simulaton of the project through the following link on [Tinkercad](https://www.tinkercad.com/things/9jkRs5D7pOL-arduino-led-control-with-switches)
 # Circuit Diagram
 The circuit diagram for this project is provided in the circuit_diagram.png file in this repository.
 
-![](https://github.com/MAzewail/Arduino-LED-Control-with-Switches/blob/main/Circuit%20Diagram.PNG)
+![](schematic.png)
 
 you can also go to the following [video](https://drive.google.com/file/d/1uFcd0NUzfrh-4d8Zc_rW8AM7C5F7FSl7/view?usp=drive_link) to view the sequence of the project. 
 # Contributing
