@@ -13,7 +13,7 @@ To follow along with this project, you will need the following hardware:
 # Installation
 1. Clone this repository to your local machine using Git or download the ZIP file.
 2. Connect the components as shown in the circuit diagram.
-3. Open the led_control.ino file in the Arduino IDE.
+3. Open the arduino-led-control-with-switches.ino file in the Arduino IDE.
 4. Upload the sketch to the Arduino board.
 # Usage
 1. Connect the power supply to the Arduino board.
@@ -26,7 +26,7 @@ The circuit diagram for this project is provided in the circuit_diagram.png file
 
 ![](schematic.png)
 
-you can also go to the following [video](https://drive.google.com/file/d/1uFcd0NUzfrh-4d8Zc_rW8AM7C5F7FSl7/view?usp=drive_link) to view the sequence of the project. 
+You can also go to the following [video](https://drive.google.com/file/d/1uFcd0NUzfrh-4d8Zc_rW8AM7C5F7FSl7/view?usp=drive_link) to view the sequence of the project. 
 # Contributing
 If you find an issue with the code or have an improvement to suggest, feel free to open an issue or pull request.
 
